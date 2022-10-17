@@ -4,12 +4,14 @@ const loadPlaces = function (coords) {
 
     const PLACES = [
         {
-            name: "Your place name",
+            name: "Student Center",
             location: {
-                lat: -0.398338,  // add here latitude if using static data
-                lng: 36.960885, // add here longitude if using static data
+                //sTUDENT cENTER
+                lat: -0.392080,  // a
+                lng: 36.959960, // 
             }
         },
+        
     ];
 
     if (method === 'api') {
