@@ -6,7 +6,7 @@ const loadPlaces = function (coords) {
         {
             name: "Student Center",
             location: {
-                //sTUDENT cENTER
+                //Students Center
                 lat: -0.392080,  // a
                 lng: 36.959960, // 
             }
